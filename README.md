@@ -10,8 +10,3 @@ Experience in web programming for over +9 years.
 **English level:**  B1. 🇺🇸
 <br />
 **Teamwork experience:**  Jira / Kaiten (Agile, Kanban) 
-
-> [!div class="checklist"]
-> * List item 1
-> * List item 2
-> * List item 3
