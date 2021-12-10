@@ -11,8 +11,8 @@ Experience in web programming for over +9 years.
 <br />
 **Teamwork experience:**  Jira / Kaiten (Agile, Kanban) 
 ```
-#Framework7 #Yii2
-#React.JS #Vue.JS #Socket.IO
-#Python #MySQL #MongoDB #GraphQL #JavaScript #Git #Gulp,
-#Webpack #PHP7 #Next.JS #Node.JS
+#Next.JS #React.JS #Vue.JS #Node.JS
+#JavaScript #Python #Framework7
+#MySQL #MongoDB #GraphQL #Git #Gulp,
+#Webpack #PHP7 #Yii2 #Socket.IO
 ```
