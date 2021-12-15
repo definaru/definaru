@@ -7,6 +7,6 @@ Experience in web programming for over +9 years.
 <br />
 **Portfolio** - https://definaru.github.io
 <br />
-**English level:**  B1. 🇺🇸
+**English level:** [B1](https://www.efset.org/ru/cefr/b1/)
 <br />
 **Teamwork experience:**  Jira / Kaiten (Agile, Kanban) 
