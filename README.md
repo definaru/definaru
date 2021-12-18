@@ -4,10 +4,8 @@
 Experience in web programming for over +9 years.
 <br />
 **[Habr](https://career.habr.com/isolution666)** 
-
-**linkedin** - https://www.linkedin.com/in/inc-defina/
-<br />
-**Portfolio** - https://definaru.github.io
+**[LinkedIn](https://www.linkedin.com/in/inc-defina/)**
+**[Portfolio](https://definaru.github.io)**
 <br />
 **English level:** [B1](https://www.efset.org/ru/cefr/b1/)
 <br />
