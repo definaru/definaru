@@ -3,7 +3,7 @@
 
 Experience in web programming for over +9 years.
 <br />
-**[Habr](https://career.habr.com/isolution666)** |
+**[Habr (CV)](https://career.habr.com/isolution666)** |
 **[LinkedIn](https://www.linkedin.com/in/inc-defina/)** | 
 **[Portfolio](https://definaru.github.io)**
 <br />
