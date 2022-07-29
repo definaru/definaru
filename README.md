@@ -1,7 +1,7 @@
 ### Hi! I'm Ray 👋✨
 ***
 
-Experience in web programming for over +9 years.
+Experience in web programming for over +10 years.
 <br />
 **[Habr (CV)](https://career.habr.com/isolution666)** |
 **[LinkedIn](https://www.linkedin.com/in/inc-defina/)** | 
