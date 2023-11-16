@@ -13,10 +13,10 @@ Experience in web programming for over +10 years.
 
 ## Knowledge of programming languages
 
-![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust&logoColor=8000ff)
-![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=8000ff)
-![Node.js](https://img.shields.io/badge/node.js-gray?style=for-the-badge&logo=Node.js&logoColor=8000ff)
-![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=8000ff)
+![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=8000ff)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdf76)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=Node.js&logoColor=026e00)
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=7a86b8)
 
 ---
 
