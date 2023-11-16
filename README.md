@@ -11,6 +11,12 @@ Experience in web programming for over +10 years.
 <br />
 **Teamwork experience:**  Jira / Kaiten (Agile, Kanban) 
 
+## Knowledge of programming languages
+
+![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust)
+
+---
+
 ## I'm on StackOverflow
 
 ![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13095882&theme=dark)
