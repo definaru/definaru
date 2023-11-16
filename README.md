@@ -23,6 +23,26 @@ Experience in web programming for over +10 years.
 
 ---
 
+<table>
+<tr>
+<td>
 ## I'm on StackOverflow
 
 ![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13095882&theme=dark)
+</td>
+<td>
+## FrontEnd
+  
+| Framework                                                                                              |      Are      |  Link |
+|--------------------------------------------------------------------------------------------------------|:-------------:|------:|
+| ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red) |  1+ age       | -  00 |
+
+
+</td>
+<td>
+## BackEnd 
+  
+</td>
+</tr>
+</table>
+
