@@ -26,11 +26,13 @@ Experience in web programming for over +10 years.
 <table>
 <tr>
 <td>
+  
 ## I'm on StackOverflow
 
 ![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13095882&theme=dark)
 </td>
 <td>
+  
 ## FrontEnd
   
 | Framework                                                                                              |      Are      |  Link |
