@@ -49,19 +49,23 @@ Experience in web programming for over +10 years.
 </td>
 <td>
   
-| Framework                                                                                                  |      Are      |                                           Link |
-|------------------------------------------------------------------------------------------------------------|:-------------:|-----------------------------------------------:|
-| ![React.js](https://img.shields.io/badge/react.js-mediumblue?style=for-the-badge&logo=react&logoColor=cyan)|  4+ age       |  [https://react.dev](https://react.dev)        |
-| ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red)     |  2+ age       |  [https://angular.io](https://angular.io)      |
-| ![Vue.js](https://img.shields.io/badge/vue.js-seagreen?style=for-the-badge&logo=vue.js&logoColor=00FF7F)   |  1+ age       |  [https://vuejs.org](https://vuejs.org)        |
-| ![](https://img.shields.io/badge/framework7.js-orangered?style=for-the-badge&logo=framework7&logoColor=fff)|  1+ age       |  [https://framework7.io](https://framework7.io)|
+| Framework                                                                                                  |   Year`s      |
+|------------------------------------------------------------------------------------------------------------|:-------------:|
+| ![React.js](https://img.shields.io/badge/react.js-mediumblue?style=for-the-badge&logo=react&logoColor=cyan)|  4+ age       |
+| ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red)     |  2+ age       |
+| ![Vue.js](https://img.shields.io/badge/vue.js-seagreen?style=for-the-badge&logo=vue.js&logoColor=00FF7F)   |  1+ age       |
+| ![](https://img.shields.io/badge/framework7.js-orangered?style=for-the-badge&logo=framework7&logoColor=fff)|  1+ age       |
 
 </td>
 <td>
 
 ![Linux Ubuntu](https://img.shields.io/badge/ubuntu-linux-black?style=for-the-badge&logo=ubuntu&logoColor=orange)
+
 ![Nginx](https://img.shields.io/badge/nginx-server-greenyellow?style=for-the-badge&logo=nginx&logoColor=ADFF2F)
 ![Apache](https://img.shields.io/badge/apache-server-orangered?style=for-the-badge&logo=apache&logoColor=FF4500)
+
+![MySql](https://img.shields.io/badge/mysql-database-black?style=for-the-badge&logo=mysql&logoColor=FFA500)
+
 ![GraphQL](https://img.shields.io/badge/graphql-deeppink?style=for-the-badge&logo=graphql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/docker-dodgerblue?style=for-the-badge&logo=docker&logoColor=fff)
 
