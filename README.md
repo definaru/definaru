@@ -19,6 +19,7 @@ Experience in web programming for over +10 years.
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=7a86b8)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=efd81d)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
+![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=blue)
 
 ---
 
