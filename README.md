@@ -52,9 +52,10 @@ Experience in web programming for over +10 years.
   
 
   
-| Framework                                                                                              |      Are      |  Link |
-|--------------------------------------------------------------------------------------------------------|:-------------:|------:|
-| ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red) |  1+ age       | -  00 |
+| Framework                                                                                                  |      Are      |  Link |
+|------------------------------------------------------------------------------------------------------------|:-------------:|------:|
+| ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red)     |  1+ age       | -  00 |
+| ![React.js](https://img.shields.io/badge/react.js-mediumblue?style=for-the-badge&logo=react&logoColor=cyan)|  4+ age       |  - 00 |
 
 
 </td>
