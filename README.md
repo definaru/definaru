@@ -17,6 +17,8 @@ Experience in web programming for over +10 years.
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdf76)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=Node.js&logoColor=026e00)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=7a86b8)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
 
 ---
 
