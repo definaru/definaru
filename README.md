@@ -61,7 +61,7 @@ Experience in web programming for over +10 years.
 
 ![Linux Ubuntu](https://img.shields.io/badge/ubuntu-linux-black?style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![GraphQL](https://img.shields.io/badge/graphql-deeppink?style=for-the-badge&logo=graphql&logoColor=fff)
-![Docker](https://img.shields.io/badge/graphql-dodgerblue?style=for-the-badge&logo=docker&logoColor=fff)
+![Docker](https://img.shields.io/badge/docker-dodgerblue?style=for-the-badge&logo=docker&logoColor=fff)
 
 </td>
 </tr>
