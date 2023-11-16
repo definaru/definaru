@@ -25,15 +25,32 @@ Experience in web programming for over +10 years.
 
 <table>
 <tr>
-<td>
+<th>
   
 ## I'm on StackOverflow
+
+</th>
+<th>
+  
+## FrontEnd
+
+</th>
+<th>
+  
+## BackEnd 
+  
+</th>
+</tr>
+<tr>
+<td>
+  
+
 
 ![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13095882&theme=dark)
 </td>
 <td>
   
-## FrontEnd
+
   
 | Framework                                                                                              |      Are      |  Link |
 |--------------------------------------------------------------------------------------------------------|:-------------:|------:|
@@ -42,8 +59,8 @@ Experience in web programming for over +10 years.
 
 </td>
 <td>
-## BackEnd 
-  
+
+  ...
 </td>
 </tr>
 </table>
