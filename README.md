@@ -59,7 +59,7 @@ Experience in web programming for over +10 years.
 </td>
 <td>
 
-  ...
+![Linux Ubuntu](https://img.shields.io/badge/ubuntu-linux-black?style=for-the-badge&logo=ubuntu&logoColor=orange)
 </td>
 </tr>
 </table>
