@@ -60,7 +60,7 @@ Experience in web programming for over +10 years.
 <td>
 
 ![Linux Ubuntu](https://img.shields.io/badge/ubuntu-linux-black?style=for-the-badge&logo=ubuntu&logoColor=orange)
-![Nginx](https://img.shields.io/badge/nginx-server-dodgerblue?style=for-the-badge&logo=nginx&logoColor=ADFF2F)
+![Nginx](https://img.shields.io/badge/nginx-server-greenyellow?style=for-the-badge&logo=nginx&logoColor=ADFF2F)
 ![GraphQL](https://img.shields.io/badge/graphql-deeppink?style=for-the-badge&logo=graphql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/docker-dodgerblue?style=for-the-badge&logo=docker&logoColor=fff)
 
