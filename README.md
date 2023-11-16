@@ -43,10 +43,9 @@ Experience in web programming for over +10 years.
 </tr>
 <tr>
 <td>
-  
-
 
 ![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13095882&theme=dark)
+
 </td>
 <td>
   
@@ -60,6 +59,7 @@ Experience in web programming for over +10 years.
 <td>
 
 ![Linux Ubuntu](https://img.shields.io/badge/ubuntu-linux-black?style=for-the-badge&logo=ubuntu&logoColor=orange)
+
 </td>
 </tr>
 </table>
