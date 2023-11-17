@@ -33,17 +33,17 @@ Experience in web programming for over +10 years.
 <tr>
 <th>
   
-## I'm on StackOverflow
+I'm on StackOverflow
 
 </th>
 <th>
   
-## FrontEnd
+Frontend
 
 </th>
 <th>
   
-## BackEnd 
+Backend 
   
 </th>
 </tr>
