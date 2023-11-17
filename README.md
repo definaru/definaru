@@ -49,7 +49,7 @@ Experience in web programming for over +10 years.
 </td>
 <td>
   
-| Framework                                                                                                  |   Year`s      |
+| Framework                                                                                                  | years of use  |
 |------------------------------------------------------------------------------------------------------------|:-------------:|
 | ![React.js](https://img.shields.io/badge/react.js-mediumblue?style=for-the-badge&logo=react&logoColor=cyan)|  4+ age       |
 | ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red)     |  2+ age       |
@@ -65,6 +65,7 @@ Experience in web programming for over +10 years.
 ![Apache](https://img.shields.io/badge/apache-server-orangered?style=for-the-badge&logo=apache&logoColor=FF4500)
 
 ![MySql](https://img.shields.io/badge/mysql-database-black?style=for-the-badge&logo=mysql&logoColor=FFA500)
+![PostgresQL](https://img.shields.io/badge/postgresql-database-black?style=for-the-badge&logo=postgresql&logoColor=87CEEB)
 
 ![GraphQL](https://img.shields.io/badge/graphql-deeppink?style=for-the-badge&logo=graphql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/docker-dodgerblue?style=for-the-badge&logo=docker&logoColor=fff)
