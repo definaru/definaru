@@ -2,13 +2,19 @@
 ***
 
 Experience in web programming for over +10 years.
+
 <br />
-**[Habr (CV)](https://career.habr.com/isolution666)** |
-**[LinkedIn](https://www.linkedin.com/in/inc-defina/)** | 
-**[Сontact me](https://solutions-dev.netlify.app)**
+
+[![Habr (CV)](https://img.shields.io/badge/Habr_(CV)-0077B5?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/isolution666)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inc-defina/)
+[![Сontact me](https://img.shields.io/badge/%D0%A1ontact_me-0077B5?style=for-the-badge&logo=contact&logoColor=white)](https://solutions-dev.netlify.app)
+
 <br />
-**English level:** [B1](https://www.efset.org/ru/cefr/b1/)
+
+**English level:** <img src="https://emojio.ru/images/apple-m/1f1fa-1f1f2.png" alt="US" style="width: 20px"> [B1](https://www.efset.org/ru/cefr/b1/)
+
 <br />
+
 **Teamwork experience:**  Jira / Kaiten (Agile, Kanban) 
 
 ## Knowledge of programming languages
