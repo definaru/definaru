@@ -60,7 +60,7 @@ Backend
 | ![React.js](https://img.shields.io/badge/react.js-mediumblue?style=for-the-badge&logo=react&logoColor=cyan)|  4+ age       |
 | ![Angular](https://img.shields.io/badge/angular-maroon?style=for-the-badge&logo=angular&logoColor=red)     |  2+ age       |
 | ![Vue.js](https://img.shields.io/badge/vue.js-seagreen?style=for-the-badge&logo=vue.js&logoColor=00FF7F)   |  1+ age       |
-| ![](https://img.shields.io/badge/framework7-orangered?style=for-the-badge&logo=framework7&logoColor=fff)|  1+ age       |
+| ![](https://img.shields.io/badge/framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=fff)|  1+ age       |
 
 </td>
 <td>
