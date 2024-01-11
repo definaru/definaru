@@ -11,7 +11,7 @@ Experience in web programming for over +10 years.
 
 <br />
 
-**English level:** <img src="https://emojio.ru/images/apple-m/1f1fa-1f1f2.png" alt="US" style="width: 20px"> [B1](https://www.efset.org/ru/cefr/b1/)
+**English level:** <img src="https://flagicons.lipis.dev/flags/4x3/ru.svg" alt="US" style="width: 20px"> [B1](https://www.efset.org/ru/cefr/b1/)
 
 <br />
 
