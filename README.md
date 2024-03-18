@@ -11,7 +11,7 @@ Experience in web programming for over +10 years.
 
 <br />
 
-**English level:** <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" alt="US" /> [B1](https://www.efset.org/ru/cefr/b1/)
+**English level:** <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" alt="US" style="width: 18px" /> [B1](https://www.efset.org/ru/cefr/b1/)
 
 <br />
 
